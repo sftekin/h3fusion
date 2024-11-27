@@ -1,0 +1,302 @@
+[
+    {
+        "dataset": "helpful_base",
+        "instruction": "What are the names of some famous actors that started their careers on Broadway?",
+        "output": "Some famous actors that started their careers on Broadway are Tom Hanks, Meryl Streep, and Christopher Walken.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "How did US states get their names?",
+        "output": "The United States is a federal union of states. Each state has its own unique name and history. The states were originally territories of the British Empire. After the Revolutionary War, the British ceded the land to the new United States of America. The states were gradually admitted to the union, starting with the original thirteen colonies.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "Hi, my sister and her girlfriends want me to play kickball with them. Can you explain how the game is played, so they don't take advantage of me?",
+        "output": "The game of kickball is played with two teams of 10 players each. One team is designated as the \"kickers\" and the other team is designated as the \"fielders.\" The game is played on a large diamond-shaped field, with a home plate at one end, and a pitcher's mound at the other.\n\nThe object of the game is to score more runs than the other team. A runner advances around the bases by hitting a ball that has been pitched by the opposing team, and then running to the next base. If the ball is caught by a fielder before it touches the ground, the runner is out. If the runner is hit by a ball while running, he is out.\n\nThe game is divided into innings, and each team bats until three players are out. The team that is kicking then takes the field, and the other team becomes the kicking team. The game is usually played for seven innings.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "What is some cool music from the 1920s?",
+        "output": "Some cool music from the 1920s includes jazz, blues, and ragtime.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "How do I wrap a present neatly?",
+        "output": "There is no one definitive way to wrap a present neatly. However, some tips to help you wrap a present neatly include using tissue paper or wrapping paper, using a good amount of tape or ribbon, and using a sharp knife to cut the wrapping paper.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "How do I dice without slicing my finger",
+        "output": "To dice without slicing your finger, you can use a knife to cut the food into small pieces. Be careful not to cut yourself while doing this.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "Hi, I'm trying to solve a crossword puzzle, but I've never done one of these before. Can you help me out?",
+        "output": "The first step is to identify the clues in the puzzle. In this case, there are 24 clues.\n\nNext, look at each clue and try to come up with a word or phrase that fits the description. For example, the clue \"A unit of magnetic flux\" might be solved with the word \"tesla.\"\n\nFinally, put the words together to form a phrase or sentence. In this case, the solution to the puzzle is \"A tesla is a unit of magnetic flux.\"",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "Who is Larry Page?",
+        "output": "Larry Page is an American computer scientist and internet entrepreneur who co-founded Google with Sergey Brin.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "What are different drawers I should have for clothes?",
+        "output": "There are a few different types of drawers you could use for clothes. One option is to have a drawer for each type of clothing item, such as shirts, pants, and socks. Another option is to have one large drawer for all of your clothes, and then organize the clothes within that drawer by type or color.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Georgian  dishes. Can you give me a recipe for Kubdari?",
+        "output": "Kubdari is a popular dish in Georgian cuisine. It is a type of khachapuri, a cheese-filled bread, but it is made with beef and pork stuffing. Here is a recipe for Kubdari:\n\nIngredients:\n\n1 lb. ground beef\n1/2 lb. ground pork\n1 onion, chopped\n1/4 cup chopped fresh parsley\n1/4 cup chopped fresh cilantro\n1/4 cup chopped fresh dill\n3 cloves garlic, minced\n1 tsp. salt\n1/2 tsp. black pepper\n1/2 tsp. cumin\n1/2 tsp. dried oregano\n1/2 tsp. dried thyme\n1/4 tsp. red pepper flakes\n1/4 cup olive oil\n2 cups all-purpose flour\n2 tsp. baking powder\n1 cup milk\n1 cup water\n1 (15-oz) container ricotta cheese\n1 cup (4 oz.) grated Parmesan cheese\n1 egg\n1 egg yolk\n1/2 tsp. salt\n1/4 tsp. black pepper\n1 (8-oz) can tomato sauce\n1/2 cup chopped fresh parsley\nDirections:\n\n1. In a large bowl, combine ground beef, ground pork, onion, parsley, cilantro, dill, garlic, salt, black pepper, cumin, oregano, thyme, red pepper flakes, and olive oil. Mix well.\n2. In a medium bowl, whisk together flour, baking powder, milk, and water.\n3. Mix ricotta cheese, Parmesan cheese, egg, egg yolk, salt, and black pepper in a large bowl.\n4. Preheat oven to 375\u00b0F.\n5. Divide beef mixture into 4equal portions. On a lightly floured surface, roll each portion into a 12-inch-long log. Make a well in the center of each log and fill with ricotta mixture.\n6. Roll up dough around filling, pinching seams to seal. Moisten edges with water and press with a fork to seal.\n7. Place logs on a greased baking sheet. Bake for 30 minutes.\n8. Reduce oven temperature to 350\u00b0F and bake for 10 minutes longer.\n9. Meanwhile, in a small saucepan, heat tomato sauce over medium heat.\n10. Remove kubdari from oven and let cool for 5 minutes. Serve with tomato sauce and parsley.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "do you think retinoid is effective on removing the acne? because I have a lot of it",
+        "output": "There is no one-size-fits-all answer to this question, as the effectiveness of retinoid acne treatments varies from person to person. However, many people find that retinoid treatments are effective for reducing the appearance of acne.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "I'm trying to teach myself to have nicer handwriting. Can you help?",
+        "output": "There isn't one definitive answer to this question. However, some tips that may help include practicing regularly, using a light touch, and making sure your writing surface is level.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Somali  dishes. Can you give me a recipe for Canjeero?",
+        "output": "Ingredients:\n\n1 cup flour\n1 teaspoon baking powder\n1/4 teaspoon salt\n1 tablespoon sugar\n1/4 teaspoon ground cinnamon\n1 tablespoon butter, melted\n1/2 cup milk\n1 egg\n\nInstructions:\n\n1. Preheat oven to 375 degrees F (190 degrees C). Grease a baking sheet.\n\n2. Sift flour, baking powder, salt, sugar, and cinnamon together into a bowl. Stir in butter, milk, and egg until a soft dough forms.\n\n3. Place dough on baking sheet. Bake in preheated oven for 12 minutes, or until golden brown.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "What are the best exercises for beginners?",
+        "output": "There is no definitive answer to this question since everyone's fitness level and experience varies. However, some good exercises for beginners include squats, lunges, push-ups, and crunches.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "Do you know why turkeys became the official food of thanksgiving?",
+        "output": "Turkeys became the official food of thanksgiving because they are native to North America and were plentiful during the early years of the holiday.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "I want to get better at networking at work",
+        "output": "To improve your networking skills at work, start by attending industry events and meetings related to your field. Also, make a point of getting to know your colleagues and superiors better, and stay up to date on the latest news and trends in your industry. Finally, be proactive in seeking out networking opportunities, and don't be afraid to reach out to others for help or advice.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "Are there any weird Christmas traditions?",
+        "output": "Yes, there are a few weird Christmas traditions. One example is the Christmas Pickle. According to legend, a pickle is hidden somewhere in the Christmas decorations. The first person to find the pickle gets an extra present from Santa.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "Hi, I'm interested in learning to play badminton. Can you explain the game to me?",
+        "output": "Badminton is a racquet sport that is played by hitting a shuttlecock with a racquet. The aim is to hit the shuttlecock over the net and into the opponent's court. The game is played by two people, or four people in doubles.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "Do you know why cats always rub up against your legs?",
+        "output": "There are a few reasons why cats might rub up against your legs. One possibility is that they are marking you as their territory. Cats often rub their faces and bodies against objects to leave their scent behind, and by doing so, they let other cats know that this territory belongs to them. Another possibility is that your cat is trying to show you affection. Cats often rub up against their owners as a way of saying \"I love you.\"",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "I am going to try to roast a pig at home for Thanksgiving this year. What equipment and techniques do I need to successfully get a pig roasted?",
+        "output": "There are a few things you will need in order to roast a pig at home for Thanksgiving. You will need a roasting pan that is large enough to fit the pig, a meat thermometer, and an oven that is capable of reaching temperatures of at least 325 degrees Fahrenheit.\n\nIn order to successfully roast a pig, you will need to keep the pig moist by basting it with a mixture of apple cider and butter. You will also need to ensure that the pig is cooked evenly by rotating it every hour. The pig is done when the meat thermometer registers a temperature of 165 degrees Fahrenheit.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "Help me find a good rated electric saw.",
+        "output": "There is no one-size-fits-all answer to this question, as the best rated electric saw for one person might not be the best rated electric saw for another person. It is important to consider the specific needs and preferences of the person who will be using the saw. Some factors to consider include the type of material the saw will be used to cut, the size of the material, the power of the saw, and the level of safety features.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "What are some artists I might like if I like Billy Joel?",
+        "output": "Some artists that may be of interest if you enjoy Billy Joel's music are Elton John, Bruce Springsteen, and James Taylor.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "What type of soil is suitable for cactus?",
+        "output": "Cactus can grow in a variety of soils, but they prefer soils that are sandy, gritty, and have a lot of drainage.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "How do you become an author?",
+        "output": "There is no one-size-fits-all answer to this question, as the process of becoming an author varies depending on your qualifications and experience. However, some tips on how to become an author include writing a book proposal, building a platform, and networking with other authors.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "What breed dog is smallest?",
+        "output": "The breed of dog that is smallest is the chihuahua.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "What are some species of bears that are now extinct?",
+        "output": "The giant panda, spectacled bear, and the grizzly bear are some species of bears that are now extinct.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "What causes the northern lights?",
+        "output": "There are a few things that can cause the northern lights. They are typically caused by the interaction of the solar wind with the Earth's magnetic field, but they can also be caused by lightning or eruptions on the Sun.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "What are some good foods to eat when you are sick? I am looking for something to make my girlfriend to eat.",
+        "output": "Some good foods to eat when you are sick are: broth, applesauce, popsicles, Jell-O, and ice chips.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "Why is kobe beef so damn expensive?",
+        "output": "Kobe beef is a type of beef that comes from Kobe, Japan. It is known for being very tender and flavorful. This is due to the way the cows are raised and the feed they are given. Kobe beef is also very expensive because it is in high demand.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "How do I clean my armpits?",
+        "output": "Use a mild soap and water to clean your armpits. Be sure to rinse well and dry completely.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "How do I detail a car?",
+        "output": "To detail a car, you will need to clean the exterior and interior of the vehicle. First, use a hose to wet the car down and then use a car wash soap to clean the car. Next, use a brush to scrub the car and then rinse it off. You can then use a wax to protect the car's finish. Finally, you can clean the interior of the car by vacuuming it and then using a cleaner to wipe down the surfaces.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "I am going to make pumpkin pie for the first time.  Can you help me?",
+        "output": "1. Preheat the oven to 375 degrees.\n2. Mix together the pumpkin puree, eggs, sugar, spices, and salt in a bowl.\n3. Pour the mixture into a pie crust.\n4. Bake for 50 to 60 minutes, or until a toothpick comes out clean.\n5. Let the pie cool before serving.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "What kind of foods do they eat in Thailand",
+        "output": "People in Thailand eat a variety of different foods, including both Thai and international cuisine. Some common Thai dishes include tom yum goong (a spicy shrimp soup), pad thai (a rice noodle dish), and massaman curry (a mild, coconut milk-based curry). International dishes that are popular in Thailand include Italian pasta dishes, Japanese sushi, and American burgers and fries.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "What are some good browser alternatives to Chrome?",
+        "output": "Safari, Firefox, Opera, and Microsoft Edge are all good browser alternatives to Chrome.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "Who created the Superman cartoon character?",
+        "output": "Created by the American animator and comic book artist Max Fleischer, Superman made his debut in the animated short film \"Superman\" on September 26, 1941.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "What is Atlantis?",
+        "output": "Atlantis is a legendary island that is said to have sunk into the ocean after a natural disaster.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "How do I make escargot?",
+        "output": "You will need:\n\n-250g of escargot\n-50g of butter\n-1 shallot, minced\n-1 garlic clove, minced\n-125ml of white wine\n-1 tbsp of parsley, chopped\n-Salt and pepper to taste\n\n1. Preheat the oven to 200 degrees Celsius.\n\n2. Melt the butter in a frying pan over medium heat. Add the shallot and garlic and fry until softened.\n\n3. Add the escargot to the frying pan and fry until they are coated in butter.\n\n4. Add the white wine and parsley and season with salt and pepper. Cook for a few minutes until the wine has reduced by half.\n\n5. Transfer the escargot to an oven-safe dish and bake in the oven for 10-15 minutes until the sauce is bubbling. Serve hot.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "What exactly causes volcanoes to form?",
+        "output": "Volcanoes form when molten rock, ash, and gas escape from an opening in the Earth's surface. The molten rock, called magma, is heated by the Earth's heat. This can happen when the magma is in the Earth's mantle or when it is in a magma chamber under the Earth's surface. When the pressure gets too high, the magma can break through the Earth's surface.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "Hi, I have some falafel, but no tahini to put on them. Can you give me a recipe for making tahini?",
+        "output": "Sure, here's a recipe for making tahini:\n\nIngredients:\n\n1 cup sesame seeds\n\n3-4 tablespoons olive oil\n\n1-2 cloves garlic\n\n1 teaspoon salt\n\nInstructions:\n\n1. Preheat oven to 350 degrees Fahrenheit.\n\n2. Spread sesame seeds on a baking sheet and roast for about 10 minutes, stirring a few times, until lightly browned.\n\n3. Let cool for a few minutes, then place in a food processor.\n\n4. Add olive oil, garlic, and salt, and blend until a thick paste forms.\n\n5. Store in a jar in the fridge for up to a week.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "Should I get my children a nanny? I'm so exhausted.",
+        "output": "There is no one-size-fits-all answer to this question, as the best decision for your family will depend on your specific needs and circumstances. That said, there are a few things to consider when making your decision.\n\nFirst, consider how much energy and time you currently have to devote to taking care of your children. If you are feeling overwhelmed and exhausted, a nanny could be a great option to help lighten your load. Nannies can provide a level of personalized care and attention that is often difficult to find in a daycare setting.\n\nSecond, think about your budget. Nannies can be expensive, so you'll need to make sure you can afford to pay for this type of childcare.\n\nFinally, weigh the pros and cons of having a nanny versus sending your children to daycare. Nannies can provide more one-on-one attention, but daycares typically have more structure and offer a wider variety of activities. Ultimately, the decision comes down to what is best for your family.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "When was Canada colonized?",
+        "output": "Canada was colonized in the early 1600s.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "How can I  use my phone less?",
+        "output": "There are a few ways that you can use your phone less. One way is to turn off notifications for apps that you don't need to be constantly updated on. Another way is to put your phone in airplane mode when you're not using it. And finally, you can try to set time limits for yourself on how long you can use your phone each day.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "How did mankind discover that the earth was spherical, and why did they initially believe it to be flat?",
+        "output": "There is evidence that people in many different cultures discovered that the earth was round. One clue is that the earth casts a round shadow on the moon during a lunar eclipse. Another is that ships gradually disappear over the horizon.\n\nPeople probably believed that the earth was flat at first because that is what they could see with their own eyes. They may also have been influenced by the way that the earth appears to be flat in some areas.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "What is Gremolata?",
+        "output": "Gremolata is a sauce typically made of parsley, lemon zest, and garlic that is used as a condiment.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "Why did humans evolve to believe in God?",
+        "output": "There is no one answer to this question, as there are many different reasons why people may believe in God. Some people may believe in God because they have been raised in a religious family or community, while others may believe in God because they find comfort in the idea of a higher power. Some people may also believe in God as a way of explaining the universe and its many complex phenomena, or as a way of feeling connected to something larger than themselves.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "what should i build a cabin out of?",
+        "output": "There are many materials you could use to build a cabin, but some of the most popular choices are wood, concrete, and metal. Each has its own benefits and drawbacks, so you'll need to decide which is the best fit for your needs.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "Why do a lot of Scientists not believe in God or Satan?",
+        "output": "There are a variety of reasons why many scientists do not believe in God or Satan. Some scientists may not believe in God because they believe that the universe can be explained without the need for a divine creator. Others may not believe in Satan because they do not believe in the existence of evil supernatural beings. Additionally, many scientists may not believe in either God or Satan because they do not think that there is sufficient evidence to support either of these concepts.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Mauritian dishes. Can you give me a recipe for Mine Frite?",
+        "output": "Here is a recipe for Mine Frite, a Mauritian dish made of fried potatoes.\n\nIngredients:\n\n1 lb potatoes\n1 tbsp oil\nSalt, to taste\n\nInstructions:\n\n1. Peel and dice the potatoes into small pieces.\n\n2. Heat the oil in a frying pan over medium-high heat.\n\n3. Add the potatoes and salt, and fry until golden and crispy, about 10 minutes.\n\n4. Serve hot.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "Why can I see the moon during the day?",
+        "output": "The moon is always present, but it's not always visible. It's only visible when it's lit up by the sun. During the day, the sun is so bright that it overpowers the light of the moon.",
+        "generator": "text_davinci_003"
+    },
+    {
+        "dataset": "helpful_base",
+        "instruction": "How do I take care of a wooden table?",
+        "output": "To take care of a wooden table, you should first dust it off with a soft cloth. Next, you can apply a light coat of wood polish to the surface of the table. Be sure to avoid getting the polish on the legs or edges of the table, as it can make them slippery. Finally, you can use a damp cloth to clean the table periodically.",
+        "generator": "text_davinci_003"
+    }
+]
