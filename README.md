@@ -3,12 +3,13 @@
 
 ![alt text](img-files/main.jpg)
 
+[Paper Link](https://arxiv.org/pdf/2411.17792)
 
-$H^3$ Fusion ensembles multiple individually aligned LLMs to create a final fine-tuned alignment model with enhanced capabilities beyond those of individual models, delivering robust alignment through promoting `helpful`, `harmless`, `honest` fusion. 
+$\mathrm{H}^3$ Fusion ensembles multiple individually aligned LLMs to create a final fine-tuned alignment model with enhanced capabilities beyond those of individual models, delivering robust alignment through promoting `helpful`, `harmless`, `honest` fusion. 
 
-$H^3$ Fusion leverages the mixture-of-experts (MoE) methodology in two steps. We first freeze the multi-head attention weights of each individual model while tuning the feed-forward network (FFN) layer during alignment fusion. Then we merge the aligned model weights with an expert router according to the type of input instruction and dynamically select a subset of experts that are best suited for producing the output response. 
+$\mathrm{H}^3$ Fusion leverages the mixture-of-experts (MoE) methodology in two steps. We first freeze the multi-head attention weights of each individual model while tuning the feed-forward network (FFN) layer during alignment fusion. Then we merge the aligned model weights with an expert router according to the type of input instruction and dynamically select a subset of experts that are best suited for producing the output response. 
 
-We boost the performance of the resulting $H^3$ Fusion model by introducing gating loss and regularization terms. The former penalizes the selection errors of the expert-router, and the latter mediates the expert weights drifting during fine-tuning and dynamically adjusts the fusion behavior of the resulting model by canalizing the activations on the experts.
+We boost the performance of the resulting $\mathrm{H}^3$ Fusion model by introducing gating loss and regularization terms. The former penalizes the selection errors of the expert-router, and the latter mediates the expert weights drifting during fine-tuning and dynamically adjusts the fusion behavior of the resulting model by canalizing the activations on the experts.
 
 
 # Install
@@ -80,7 +81,7 @@ Here, we show how we evaluate our models but there are two prerequisites:
 - Truthfulness requires you to train GPT-Judge, which is the finetuned text-davinci-003 model. Follow the instructions shown in [TruthfulQA](https://github.com/sylinrl/TruthfulQA) to create a model for truthfulness and a model for informativeness.
 
 
-## Helpfulness:
+### Helpfulness:
 First go the evaluator directory and run `evaluate_helpfulness.py`
 ```
 $ cd evaluator/
@@ -96,7 +97,7 @@ alpaca_eval --model_outputs aligned.json --reference_outputs reference_model.jso
 ```
 
 
-## Safety
+### Safety
 
 We use `PKU-Alignment/beaver-dam-7b` model to perform evaluation, here is a sample call
 ```
@@ -105,7 +106,7 @@ $ python evaluate_safety.py --task_name <infer_dir_name>
 ```
 here <infer_dir_name> is the directory name under 'results/outputs' such as cross_mix_moe_reg_00000_00000_00000_gate_00100
 
-## Truthfulness
+### Truthfulness
 
 After training GPT-Judge, you need to copy the engine names from your OpenAI API to the variables `informative_engine_name` and `truthful_engine_name` inside `evaluate_truth_and_info.py` script.
 
@@ -117,4 +118,16 @@ $ python evaluate_truth_and_info.py --task_name <infer_dir_name> --mode 0
 For informativeness score, run:
 ```
 $ python evaluate_truth_and_info.py --task_name <infer_dir_name> --mode 1
+```
+
+# Citation
+```
+@article{tekin2024h3fusionhelpfulharmlesshonest,
+      title={$H^3$Fusion: Helpful, Harmless, Honest Fusion of Aligned LLMs}, 
+      author={Selim Furkan Tekin and Fatih Ilhan and Tiansheng Huang and Sihao Hu and Zachary Yahn and Ling Liu},
+      journal={arXiv preprint arXiv:2411.17792},
+      year={2024},
+      url={https://arxiv.org/abs/2411.17792}, 
+}
+
 ```
