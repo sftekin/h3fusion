@@ -3,8 +3,6 @@
 
 ![alt text](img-files/main.jpg)
 
-[Paper Link](https://arxiv.org/pdf/2411.17792)
-
 $\mathrm{H}^3$ Fusion ensembles multiple individually aligned LLMs to create a final fine-tuned alignment model with enhanced capabilities beyond those of individual models, delivering robust alignment through promoting `helpful`, `harmless`, `honest` fusion. 
 
 $\mathrm{H}^3$ Fusion leverages the mixture-of-experts (MoE) methodology in two steps. We first freeze the multi-head attention weights of each individual model while tuning the feed-forward network (FFN) layer during alignment fusion. Then we merge the aligned model weights with an expert router according to the type of input instruction and dynamically select a subset of experts that are best suited for producing the output response. 
@@ -118,16 +116,4 @@ $ python evaluate_truth_and_info.py --task_name <infer_dir_name> --mode 0
 For informativeness score, run:
 ```
 $ python evaluate_truth_and_info.py --task_name <infer_dir_name> --mode 1
-```
-
-# Citation
-```
-@article{tekin2024h3fusionhelpfulharmlesshonest,
-      title={$H^3$Fusion: Helpful, Harmless, Honest Fusion of Aligned LLMs}, 
-      author={Selim Furkan Tekin and Fatih Ilhan and Tiansheng Huang and Sihao Hu and Zachary Yahn and Ling Liu},
-      journal={arXiv preprint arXiv:2411.17792},
-      year={2024},
-      url={https://arxiv.org/abs/2411.17792}, 
-}
-
 ```
