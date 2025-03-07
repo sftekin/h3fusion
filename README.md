@@ -23,7 +23,7 @@ please provide your huggingface token by asigning the variable `hf_token`
 
 ## Downloads
 
-You may download the **Raw** **$\mathrm{H}^3$ Fusion-MoE** model from [here](https://www.dropbox.com/scl/fo/wny16vbrwzusxc9mcxrod/AITCy67JIDx7xmm9jbu1QCU?rlkey=lga1opfgar0i4o6tb6rdcdgb2&st=iiwfequy&dl=0) and put it under `models/` directory. This model is the combined version of individually aligned models. Thus, model needs to fine-tune its MoE layers. 
+You may download the **Raw** **$\mathrm{H}^3$ Fusion-MoE** model from here and put it under `models/` directory. This model is the combined version of individually aligned models. Thus, model needs to fine-tune its MoE layers. 
 
 However, you may also choose to create your own MoE model by first running `align_basemodel.py` for `helpfulness`, `safety`, and `truthfulness` and get three indivually aligned models. For example:
 
